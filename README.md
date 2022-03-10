@@ -5,4 +5,12 @@
 - Primer paso: definir formulas
 - Segundo paso: implementar las formulas en javaScript
 - Tercer paso: Crear funciones
-- Cuarto paso: integrar javaScript con html.
+- Cuarto paso: integrar javaScript con html
+
+## Taller #2: calcular procentajes y descuentos  
+
+- Primer paso: definir formulas
+- Segundo paso: implementar las formulas en javaScript
+- Tercer paso: Crear funciones
+- Cuarto paso: integrar javaScript con html
+
