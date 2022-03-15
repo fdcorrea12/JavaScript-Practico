@@ -14,3 +14,9 @@
 - Tercer paso: Crear funciones
 - Cuarto paso: integrar javaScript con html
 
+## Taller #3: Promedio y moda 
+
+- Primer paso: definir formulas
+- Segundo paso: implementar las formulas en javaScript
+- Tercer paso: Crear funciones
+- Cuarto paso: integrar javaScript con html
